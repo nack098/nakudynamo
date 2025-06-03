@@ -1,4 +1,4 @@
-# nakudynamo
+# Nakudynamo
 
 > Your personal DynamoDB Local runner — installs, boots, and runs with zero pain.
 
